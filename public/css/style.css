@@ -1,0 +1,7 @@
+/* Styling tambahan untuk modal */
+.modal-bg {
+    display: none;
+}
+.modal-bg.active {
+    display: flex;
+}
